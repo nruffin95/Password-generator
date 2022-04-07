@@ -1,5 +1,5 @@
 Git Hub Pages Live Link: https://nruffin95.github.io/Password-generator/
-Git Hub Repo Link: 
+Git Hub Repo Link: https://github.com/nruffin95/Password-generator.git
 
 In this project I modified the current working page to display a random generated password.
 I started off by usinf javascript to store my varibles and created if else statments to prompt the user
