@@ -6,3 +6,4 @@ I started off by usinf javascript to store my varibles and created if else statm
 to choose the number of charters that they world like the password to be. i then created a function that uses a for loop
 to pass that throught a number of random letters and charters to return to the user after the generate password button is clicked. 
 
+![]("assets/screenshot.png") 
